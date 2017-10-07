@@ -10,7 +10,7 @@
     "filesystem"
   ],
   "dependencies": {
-    "level-filesystem": "^1.0.1",
+    "level-filesystem": "zapproject/level-filesystem",
     "level-js": "^2.1.3",
     "levelup": "^0.18.2"
   }
